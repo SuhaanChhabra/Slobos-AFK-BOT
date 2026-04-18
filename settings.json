@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MineplaceV2.aternos.me",
+    "ip": "MineplaceV2.aternos.me:2448",
     "port": 24448,
     "version": "26.1.2"
   },
