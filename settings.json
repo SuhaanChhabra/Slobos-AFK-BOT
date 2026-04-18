@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "MineplaceV2.aternos.me:24448",
+    "port": 24448,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a bot",
+        "hi!",
         "I like to play Minecraft!"
       ]
     },
