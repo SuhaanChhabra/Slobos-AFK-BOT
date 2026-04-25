@@ -8,7 +8,7 @@
   "server": {
     "ip": "MineplaceV2.aternos.me:24448",
     "port": 24448,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
