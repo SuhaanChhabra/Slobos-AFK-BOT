@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "MineplaceAI",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a bot",
-        "hi!",
-        "I like to play Minecraft!"
+        "Use /claim to protect land, /sethome and /home for your base, and /rtp for random teleport around the world.",
+        "Use /jobs browse to see jobs, /jobs join to start earning, and /jobs stats to track your progress.!",
+        "Use /balance to check money, /pay to send money, /shop to buy items, and /bank to store your cash safely."
       ]
     },
     "chat-log": true,
