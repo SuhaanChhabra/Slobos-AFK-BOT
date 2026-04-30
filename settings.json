@@ -8,7 +8,7 @@
   "server": {
     "ip": "MineplaceV2.aternos.me",
     "port": 24448,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -29,10 +29,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": [
-        "Use /claim to protect land, /sethome and /home for your base, and /rtp for random teleport around the world.",
-        "Use /jobs browse to see jobs, /jobs join to start earning, and /jobs stats to track your progress.!",
-        "Use /balance to check money, /pay to send money, /shop to buy items, and /bank to store your cash safely."
+      "messages": ["🚀 **MINEPLACE NETWORK** 🚀 Tired of dead servers and fake promises?                     We offer:⚡ Stable performance💰 Balanced economy🏆 Competitive gameplay👑 This is where real players stay.                        IP: MineplaceV2.aternos.me"
       ]
     },
     "chat-log": true,
